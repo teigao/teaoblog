@@ -1,4 +1,4 @@
-# The best way to use Python in VS Code
+]# The best way to use Python in VS Code
 
 > VS Code is an easy-using and beautiful tool to write code, this article will tell us what's the best way to use Python in VS Code.
 
