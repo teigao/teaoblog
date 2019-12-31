@@ -28,5 +28,5 @@
 
 - Download Python installation media from <https://www.python.org/downloads/>, I would suggest using Python 3.6.8. Then install it on your machine by double-clicking the installation media. _Please Check the pip in the following wizard_
 
-![avatar](../images/python_install.png)
+    ![avatar](../images/python_install.png)
 
